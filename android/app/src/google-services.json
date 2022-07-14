@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998785038818",
+    "project_id": "technews-3a154",
+    "storage_bucket": "technews-3a154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998785038818:android:496525d390221cfbc1e1bb",
+        "android_client_info": {
+          "package_name": "shahrukh.cv_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998785038818-elumfh1quorfcklf1cmo5t9qfrli9651.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shahrukh.cv_project",
+            "certificate_hash": "aea4898bf8f6b564113f71b3cdaff78e5c1f5d01"
+          }
+        },
+        {
+          "client_id": "998785038818-fplnm2mlupsn3f5iipvabjtb6vhn74o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4aj0Wt4ajkIIuXKEoUyST5w_Lf4Jf1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998785038818-fplnm2mlupsn3f5iipvabjtb6vhn74o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
