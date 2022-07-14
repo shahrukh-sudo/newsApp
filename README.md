@@ -1,0 +1,2 @@
+# newsApp
+technical news app
